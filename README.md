@@ -1,3 +1,3 @@
 # Thought
 A project that changes my life.
-ownetr of you
+owner of you
